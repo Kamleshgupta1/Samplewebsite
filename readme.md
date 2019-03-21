@@ -1,5 +1,5 @@
 
-<div align="center">![ss](https://user-images.githubusercontent.com/36782859/54771799-0c4aa000-4c2c-11e9-9354-22a3aa03503e.png)</div>
+![ss](https://user-images.githubusercontent.com/36782859/54771799-0c4aa000-4c2c-11e9-9354-22a3aa03503e.png)
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
